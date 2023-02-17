@@ -1,3 +1,6 @@
 void main() {}
 
-class MyClass {}
+class MyClass {
+  int age = 10;
+  String name = 'Fauzi';
+}
